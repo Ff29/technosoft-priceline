@@ -1,0 +1,40 @@
+Test #1: Verify error message for 'Find your request number'			
+1	Go to Priceline homepage		
+2	Click 'Help'		
+3	Enter email address 'asd@gmail.com'		
+4	Enter request number '12345678'		
+5	Click 'Continue'		
+6	Verify the error message that displays on the screen		
+			
+Test #2: Validate 'Search Cars' page			
+1	Click 'Cars'		
+2	In the 'Pick Up From' autocomplete box, select 'JFK'		
+3	Select the 'pick up date' to be 2 days from today		
+4	Select the 'drop off date' to be 7 days from today		
+5	Click 'Search Rental Cars'		
+6	Verify you are on the 'Rental Car' page		
+			
+Test #3: Confirm 'Download' button works			
+1	Click 'Media Center' on bottom panel		
+2	Click 'Multimedia Library' on the top panel		
+3	Click 'Summer Travel Infographic'		
+4	Verify that 'Download' button is present		
+			
+Test #4: Register with invalid credentials			
+1	Click 'Sign In'		
+2	Click 'Create an Account'		
+3	Enter 'a' for first name		
+4	Enter 'a' for last name		
+5	Enter 'a@gmail.com' for email		
+6	Enter 'technosoft1234' for the password		
+7	Re-enter 'technosoft1234' for the confirm password		
+8	 Uncheck the checkbox for promotions		
+9	Click 'Create Account'		
+10	Advise the error message that is displayed		
+			
+Test #5: 			
+1	Click 'Careers at Priceline.com' on the bottom panel		
+2	Hover over 'About Us'		
+3	Click 'Our Offices'		
+4	Click 'View Jobs in NYC'		
+5	Confirm there are no jobs available		
